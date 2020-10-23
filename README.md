@@ -1,10 +1,10 @@
 ### Hi there 👋 mi name is Agustina, I'm a frontend developer!
 
-🎓 I'm studying to be a Programming Thechnician
-🔭 I’m currently working at Globant
-⚛️ I'm into React right now
-💻 I'm working from home
-👩🏻‍ Pronouns: she/her
+<p> 🎓 I'm studying to be a Programming Thechnician  </p>
+<p> 🔭 I’m currently working at Globant </p>
+<p> ⚛️ I'm into React right now </p>
+<p> 💻 I'm working from home </p>
+<p> 👩🏻‍ Pronouns: she/her </p>
 
 
 
