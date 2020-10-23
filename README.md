@@ -28,7 +28,7 @@
       <h6>📓&nbsp;Express</h6>
       <h6>📓&nbsp;SQL</h6>
       <h6>📓&nbsp;MongoDB</h6>
-      <h6>📓&nbsp;IaaS & SaaS</h6>
+      <h6>📓&nbsp;API Rest</h6>
     </td>
   </tr>
 </table>
