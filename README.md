@@ -1,6 +1,6 @@
 ### Hi there 👋 mi name is Agustina, I'm a frontend developer!
 
-<p> 🎓 I'm studying to be a Programming Thechnician  </p>
+<p> 🎓 I'm studying to be a Programming Technician  </p>
 <p> 🔭 I’m currently working at Globant </p>
 <p> ⚛️ I'm into React right now </p>
 <p> 💻 I'm working from home </p>
