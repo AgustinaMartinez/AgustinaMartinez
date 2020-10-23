@@ -20,13 +20,15 @@
       <h6>📕&nbsp;React</h6>
       <h6>📕&nbsp;HTML5</h6>
       <h6>📕&nbsp;CSS3</h6>
+      <h6>📕&nbsp;Sass</h6>
     </td>
     <td valign="top">
       <h3>Backend</h3>
-      <h6>📕&nbsp;Node</h6>
-      <h6>📕&nbsp;Express</h6>
-      <h6>📕&nbsp;SQL</h6>
-      <h6>📕&nbsp;MongoDB</h6>
+      <h6>📓&nbsp;Node</h6>
+      <h6>📓&nbsp;Express</h6>
+      <h6>📓&nbsp;SQL</h6>
+      <h6>📓&nbsp;MongoDB</h6>
+      <h6>📓&nbsp;IaaS & SaaS</h6>
     </td>
   </tr>
 </table>
