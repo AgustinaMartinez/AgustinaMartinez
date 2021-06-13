@@ -8,7 +8,7 @@
 <p> 👀 Curious</p>
 <p> <img src="https://midu.dev/images/tags/node.png" width="20"> I'm learning Node </p>
 <p> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png" width="20"> B2 - Upper Intermediate </p>
-<p> 🔭 I’m working as freelancer as well </p>
+<p> 🔭 I've been working as freelancer as well </p>
 <p> 💼 I'm co-organizer at React Ladies community </p>
 <br>
 <h2>📝 Skills: </h2>
