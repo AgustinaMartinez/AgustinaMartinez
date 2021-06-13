@@ -1,7 +1,7 @@
 ### Hi there 👋 mi name is Agustina, I'm a frontend developer!
 
 <p> 🎓 I'm studying to be a Programming Technician </p>
-<p> 🔭 I’m currently working at Globant </p>
+<p> 🔭 I’m currently working at Mercado Libre </p>
 <p> 💻 I'm working from home </p>
 <p> ⚛️ I'm learning React </p>
 <p> 👩🏻‍ She/her </p>
