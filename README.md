@@ -13,11 +13,12 @@
 <br>
 <h2>📝 Skills: </h2>
 
-- 📕&nbsp;Vainilla JS
+- 📕&nbsp;JavaScript
 - 📕&nbsp;React
-- 📕&nbsp;HTML5
-- 📕&nbsp;CSS3
 - 📕&nbsp;Sass
+- 📕&nbsp;Styled-components
+- 📕&nbsp;TypeScript
+- 📕&nbsp;Next.js
 
 <!--
 **AgustinaMartinez/AgustinaMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
