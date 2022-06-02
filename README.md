@@ -1,37 +1,23 @@
 ### Hi there 👋 mi name is Agustina, I'm a frontend developer!
 
 <p> 🎓 I'm studying to be a Programming Technician </p>
-<p> 🔭 I’m currently working at Mercado Libre </p>
-<p> 💻 I'm working from home </p>
-<p> ⚛️ I'm learning React </p>
-<p> 👩🏻‍ She/her </p>
-<p> 👀 Curious</p>
-<p> <img src="https://midu.dev/images/tags/node.png" width="20"> I'm learning Node </p>
+<!-- <p> 🔭 I’m currently working at Mercado Libre </p> -->
 <p> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png" width="20"> B2 - Upper Intermediate </p>
-<p> 🔭 I've been working as freelancer as well </p>
-<p> 💼 I'm co-organizer at React Ladies community </p>
+<p> 💻 Working from home </p>
+<!-- <p> ⚛️ I'm learning React </p> -->
+<p> 👩🏻‍ She/her </p>
+<!-- <p> 👀 Curious</p> -->
+<!-- <p> <img src="https://midu.dev/images/tags/node.png" width="20"> I'm learning Node </p> -->
+<!-- <p> 🔭 I've been working as freelancer as well </p> -->
+<!-- <p> 💼 I'm co-organizer at React Ladies community </p> -->
 <br>
 <h2>📝 Skills: </h2>
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Frontend</h3>
-      <h6>📕&nbsp;Vainilla JS</h6>
-      <h6>📕&nbsp;React</h6>
-      <h6>📕&nbsp;HTML5</h6>
-      <h6>📕&nbsp;CSS3</h6>
-      <h6>📕&nbsp;Sass</h6>
-    </td>
-    <td valign="top">
-      <h3>Backend</h3>
-      <h6>📓&nbsp;Node</h6>
-      <h6>📓&nbsp;Express</h6>
-      <h6>📓&nbsp;SQL</h6>
-      <h6>📓&nbsp;MongoDB</h6>
-      <h6>📓&nbsp;API Rest</h6>
-    </td>
-  </tr>
-</table>
+
+- 📕&nbsp;Vainilla JS
+- 📕&nbsp;React
+- 📕&nbsp;HTML5
+- 📕&nbsp;CSS3
+- 📕&nbsp;Sass
 
 <!--
 **AgustinaMartinez/AgustinaMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
