@@ -13,7 +13,6 @@
 <br>
 <h2>📝 Skills: </h2>
 
-- 📕&nbsp;JavaScript
 - 📕&nbsp;React
 - 📕&nbsp;Sass
 - 📕&nbsp;Styled-components
